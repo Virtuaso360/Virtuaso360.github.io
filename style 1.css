@@ -118,7 +118,9 @@ strong{
 .boxmodel2{
 	border-right:2px solid white;
 	border-left: 2px solid white;
-	margin: 70px 15px ;
+	margin-top: 70px; 
+	margin-left:15px;
+	margin-right: 15px;
 	width: 360px;
 	height: 100px;
 	text-align: center;
